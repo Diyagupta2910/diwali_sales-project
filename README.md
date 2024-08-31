@@ -1,1 +1,1 @@
-# diwali_sales-project
+the project is about analysing the sale on diwali
